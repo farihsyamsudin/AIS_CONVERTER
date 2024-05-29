@@ -1,0 +1,792 @@
+From Data: 17ljJg?01M845respbgr0p26082t
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525114044
+Navigation Status: 15
+Rate of Turn (ROT): 0
+Speed Over Ground: 93
+Position Accuracy: 0
+Longitude: 112.74211666666666
+Latitude: -7.190721666666667
+Course Over Ground: -153.3
+True Heading: 257
+Time Stamp: 3
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 32956
+===
+From Data: 15@`T>@P00`3r9cspNuo:wv820SM
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 352915010
+Navigation Status: 0
+Rate of Turn (ROT): 0
+Speed Over Ground: 3
+Position Accuracy: 1
+Longitude: -81.77003333333333
+Latitude: 54.118045
+Course Over Ground: -0.8
+True Heading: 257
+Time Stamp: 0
+Manuver Indicator: 1
+Spare: 0
+RAIM Flag: 1
+Radio Status: 93
+===
+From Data: 17ldwAh01L`3eAissCvno5L60@3=
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525025095
+Navigation Status: 0
+Rate of Turn (ROT): 0
+Speed Over Ground: 92
+Position Accuracy: 0
+Longitude: 51.83412833333333
+Latitude: -8.192488333333333
+Course Over Ground: 181.3
+True Heading: 387
+Time Stamp: 0
+Manuver Indicator: 0
+Spare: 4
+RAIM Flag: 0
+Radio Status: 205
+===
+From Data: 17mLF6@P01`3maQsqOgv4?v:283Q
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525800985
+Navigation Status: 0
+Rate of Turn (ROT): 128
+Speed Over Ground: 1
+Position Accuracy: 0
+Longitude: 53.662821666666666
+Latitude: -11.366413333333334
+Course Over Ground: 108.7
+True Heading: 453
+Time Stamp: 1
+Manuver Indicator: 0
+Spare: 2
+RAIM Flag: 0
+Radio Status: 225
+===
+From Data: 17m:2w@0008436Ssp6vKMU?p2W3h
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525501181
+Navigation Status: 0
+Rate of Turn (ROT): 0
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.73250833333333
+Latitude: -7.205985
+Course Over Ground: -116.2
+True Heading: 167
+Time Stamp: 60
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 1
+Radio Status: 159984
+===
+From Data: 17ldDH0P1V`402QspQg:<Ov<2H48
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525014112
+Navigation Status: 0
+Rate of Turn (ROT): 128
+Speed Over Ground: 102
+Position Accuracy: 0
+Longitude: 55.93268833333333
+Latitude: -13.059773333333334
+Course Over Ground: -89.7
+True Heading: 454
+Time Stamp: 1
+Manuver Indicator: 0
+Spare: 6
+RAIM Flag: 0
+Radio Status: 264
+===
+From Data: 17ljFg@P0083ttUspFouI?v<00Ra
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525113021
+Navigation Status: 0
+Rate of Turn (ROT): 128
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.71149666666666
+Latitude: -7.199201666666666
+Course Over Ground: -66.8
+True Heading: 511
+Time Stamp: 6
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 2217
+===
+From Data: 3:5eAU1P0183t`msq7S0tgv@2000
+Message Type: 3
+Repeat Indicator: 0
+MMSI: 677073300
+Navigation Status: 1
+Rate of Turn (ROT): 128
+Speed Over Ground: 1
+Position Accuracy: 0
+Longitude: 112.71114166666666
+Latitude: -12.027301666666666
+Course Over Ground: -83.3
+True Heading: 456
+Time Stamp: 1
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 0
+===
+From Data: 17lcQEk000842D=sp3F@05Ip2l3h
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525001047
+Navigation Status: 3
+Rate of Turn (ROT): 0
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.72982333333333
+Latitude: -7.207531666666666
+Course Over Ground: 0.0
+True Heading: 172
+Time Stamp: 60
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 1
+Radio Status: 213232
+===
+From Data: 17ld8ehP0183wR;sploA>wwp2W3h
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525011127
+Navigation Status: 0
+Rate of Turn (ROT): 128
+Speed Over Ground: 1
+Position Accuracy: 0
+Longitude: 112.72032833333333
+Latitude: -7.186405
+Course Over Ground: 31.5
+True Heading: 511
+Time Stamp: 60
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 1
+Radio Status: 159984
+===
+From Data: B7lceD00;:10HtNv5>picwTWkP06
+Message Type: 18
+Repeat Indicator: 0
+MMSI: 525004112
+Navigation Status: 0
+Rate of Turn (ROT): 0
+Speed Over Ground: 714
+Position Accuracy: 0
+Longitude: 14.066158333333334
+Latitude: 108.49573833333334
+Course Over Ground: 43.1
+True Heading: 498
+Time Stamp: 19
+Manuver Indicator: 3
+Spare: 4
+RAIM Flag: 1
+Radio Status: 393222
+===
+From Data: 17ldgKHP0083hbIsrcLCMOvF04qL
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525021037
+Navigation Status: 8
+Rate of Turn (ROT): 128
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.66956666666667
+Latitude: -7.135811666666667
+Course Over Ground: 88.5
+True Heading: 511
+Time Stamp: 11
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 20060
+===
+From Data: 16lAh<8P01`3wpasq0:P0?vD24qL
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 457470000
+Navigation Status: 8
+Rate of Turn (ROT): 128
+Speed Over Ground: 1
+Position Accuracy: 0
+Longitude: 55.898981666666664
+Latitude: -12.228906666666667
+Course Over Ground: 6.3
+True Heading: 458
+Time Stamp: 1
+Manuver Indicator: 0
+Spare: 1
+RAIM Flag: 0
+Radio Status: 3676
+===
+From Data: 17liV`hP0083r9WspO`N4?vF0<2h
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525100738
+Navigation Status: 0
+Rate of Turn (ROT): 0
+Speed Over Ground: 8
+Position Accuracy: 0
+Longitude: 54.64618166666666
+Latitude: -13.12168
+Course Over Ground: -0.7
+True Heading: 192
+Time Stamp: 6
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 1
+Radio Status: 48
+===
+From Data: 17lunPh01d`4NAQsp@?TrCnD04qL
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525301379
+Navigation Status: 0
+Rate of Turn (ROT): 0
+Speed Over Ground: 108
+Position Accuracy: 0
+Longitude: 62.537488333333336
+Latitude: -13.537461666666667
+Course Over Ground: -145.7
+True Heading: 202
+Time Stamp: 0
+Manuver Indicator: 0
+Spare: 1
+RAIM Flag: 0
+Radio Status: 3676
+===
+From Data: 17ldgKHP0083hbKsrcKkMOv`0D2v
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525021037
+Navigation Status: 8
+Rate of Turn (ROT): 128
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.66956833333333
+Latitude: -7.135815
+Course Over Ground: 88.5
+True Heading: 511
+Time Stamp: 0
+Manuver Indicator: 0
+Spare: 5
+RAIM Flag: 0
+Radio Status: 190
+===
+From Data: 17ld8ehP0183wREsplp1=gwp2`<k
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525011127
+Navigation Status: 0
+Rate of Turn (ROT): 128
+Speed Over Ground: 1
+Position Accuracy: 0
+Longitude: 112.72033666666667
+Latitude: -7.1864
+Course Over Ground: 31.0
+True Heading: 511
+Time Stamp: 60
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 1
+Radio Status: 819
+===
+From Data: 16lAh<8P01`3wpWsq0;@0?vV20Sb
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 457470000
+Navigation Status: 8
+Rate of Turn (ROT): 128
+Speed Over Ground: 1
+Position Accuracy: 0
+Longitude: 55.898875
+Latitude: -12.228586666666667
+Course Over Ground: 6.3
+True Heading: 467
+Time Stamp: 1
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 2282
+===
+From Data: 17ldD?p00084:IQspSNK:pB`00Sb
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525014079
+Navigation Status: 8
+Rate of Turn (ROT): 0
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.75741333333333
+Latitude: -7.193825
+Course Over Ground: -123.7
+True Heading: 265
+Time Stamp: 0
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 2282
+===
+From Data: 17liW8kP0f841:5sp?Qt0gvb0L2V
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525100835
+Navigation Status: 3
+Rate of Turn (ROT): 128
+Speed Over Ground: 46
+Position Accuracy: 0
+Longitude: 112.72587
+Latitude: -7.202335
+Course Over Ground: -102.2
+True Heading: 511
+Time Stamp: 21
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 114854
+===
+From Data: 17ljJg?01M845bsspb@b0p2f0<2j
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525114044
+Navigation Status: 15
+Rate of Turn (ROT): 0
+Speed Over Ground: 93
+Position Accuracy: 0
+Longitude: 112.741275
+Latitude: -7.19093
+Course Over Ground: -153.3
+True Heading: 257
+Time Stamp: 23
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 49330
+===
+From Data: 17liW;0P00`3rUwspO14Qgvh2@7Q
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525100844
+Navigation Status: 0
+Rate of Turn (ROT): 128
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 54.743035
+Latitude: -13.13405
+Course Over Ground: 44.7
+True Heading: 472
+Time Stamp: 1
+Manuver Indicator: 0
+Spare: 4
+RAIM Flag: 0
+Radio Status: 481
+===
+From Data: 15@`T>@P00`3r9mspNvW:wvh2<3a
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 352915010
+Navigation Status: 0
+Rate of Turn (ROT): 0
+Speed Over Ground: 3
+Position Accuracy: 1
+Longitude: -81.7359
+Latitude: 54.138525
+Course Over Ground: -0.5
+True Heading: 1
+Time Stamp: 6
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 1
+Radio Status: 105
+===
+From Data: 17lobhkP008431esp5?nI?vh0<2F
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525200067
+Navigation Status: 3
+Rate of Turn (ROT): 128
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.73225
+Latitude: -7.206721666666667
+Course Over Ground: 163.6
+True Heading: 511
+Time Stamp: 24
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 49302
+===
+From Data: 17loeDh00?`3gNustoAmvTlh08?5
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525200723
+Navigation Status: 0
+Rate of Turn (ROT): 0
+Speed Over Ground: 15
+Position Accuracy: 0
+Longitude: 52.316048333333335
+Latitude: -5.481028333333334
+Course Over Ground: -36.5
+True Heading: 152
+Time Stamp: 0
+Manuver Indicator: 0
+Spare: 2
+RAIM Flag: 0
+Radio Status: 965
+===
+From Data: 17ldwAh01K`3eC1ssAono5Nh0<2t
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525025095
+Navigation Status: 0
+Rate of Turn (ROT): 0
+Speed Over Ground: 91
+Position Accuracy: 0
+Longitude: 51.838395
+Latitude: -8.250088333333334
+Course Over Ground: 181.3
+True Heading: 472
+Time Stamp: 0
+Manuver Indicator: 0
+Spare: 3
+RAIM Flag: 0
+Radio Status: 188
+===
+From Data: 17mLF6@P02`3maQsqOe>4?vl2@?P
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525800985
+Navigation Status: 0
+Rate of Turn (ROT): 128
+Speed Over Ground: 2
+Position Accuracy: 0
+Longitude: 53.662821666666666
+Latitude: -11.367586666666666
+Course Over Ground: 108.7
+True Heading: 474
+Time Stamp: 1
+Manuver Indicator: 0
+Spare: 4
+RAIM Flag: 0
+Radio Status: 992
+===
+From Data: 17ldDH0P1V`3whispQI:;gvl20Rq
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525014112
+Navigation Status: 0
+Rate of Turn (ROT): 128
+Speed Over Ground: 102
+Position Accuracy: 0
+Longitude: 55.872101666666666
+Latitude: -13.06916
+Course Over Ground: -108.9
+True Heading: 474
+Time Stamp: 1
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 2233
+===
+From Data: 17ljFg@P0083ttaspFof1Ovl0L30
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525113021
+Navigation Status: 0
+Rate of Turn (ROT): 128
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.7115
+Latitude: -7.199203333333333
+Course Over Ground: -50.7
+True Heading: 511
+Time Stamp: 26
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 114880
+===
+From Data: 17m:2w@0008436Wsp6tKJ5?p2h@V
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525501181
+Navigation Status: 0
+Rate of Turn (ROT): 0
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.73251166666667
+Latitude: -7.2059983333333335
+Course Over Ground: -117.6
+True Heading: 167
+Time Stamp: 60
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 1
+Radio Status: 197670
+===
+From Data: 17lcQEk000842D9sp3E@05Ip2p@M
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525001047
+Navigation Status: 3
+Rate of Turn (ROT): 0
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.72982
+Latitude: -7.207538333333333
+Course Over Ground: 0.0
+True Heading: 172
+Time Stamp: 60
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 1
+Radio Status: 230429
+===
+From Data: 1018lEWP0083tI3spet@0?vn0<2W
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 1193046
+Navigation Status: 7
+Rate of Turn (ROT): 128
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.70960166666667
+Latitude: -7.189358333333334
+Course Over Ground: 0.0
+True Heading: 511
+Time Stamp: 27
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 49319
+===
+From Data: 37m:3jQP01840`OspWjmUwvt2EM:
+Message Type: 3
+Repeat Indicator: 0
+MMSI: 525501386
+Navigation Status: 1
+Rate of Turn (ROT): 128
+Speed Over Ground: 1
+Position Accuracy: 0
+Longitude: 112.72362166666667
+Latitude: -12.894363333333333
+Course Over Ground: 153.5
+True Heading: 478
+Time Stamp: 1
+Manuver Indicator: 0
+Spare: 5
+RAIM Flag: 0
+Radio Status: 5962
+===
+From Data: 17ljJW@P1B`42G1spT?9twvr2HAT
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525114013
+Navigation Status: 0
+Rate of Turn (ROT): 128
+Speed Over Ground: 82
+Position Accuracy: 0
+Longitude: 56.439568333333334
+Latitude: -12.991508333333334
+Course Over Ground: -76.9
+True Heading: 477
+Time Stamp: 1
+Manuver Indicator: 0
+Spare: 6
+RAIM Flag: 0
+Radio Status: 1124
+===
+From Data: 16lAh<8P01`3wpUsq0<00?vr2HBs
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 457470000
+Navigation Status: 8
+Rate of Turn (ROT): 128
+Speed Over Ground: 1
+Position Accuracy: 0
+Longitude: 55.89876833333334
+Latitude: -12.228266666666666
+Course Over Ground: 6.3
+True Heading: 477
+Time Stamp: 1
+Manuver Indicator: 0
+Spare: 6
+RAIM Flag: 0
+Radio Status: 1211
+===
+From Data: 17liW;0P00`3rUuspO14Qgw02<4<
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525100844
+Navigation Status: 0
+Rate of Turn (ROT): 128
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 54.74292833333333
+Latitude: -13.13405
+Course Over Ground: 44.7
+True Heading: 480
+Time Stamp: 1
+Manuver Indicator: 0
+Spare: 3
+RAIM Flag: 0
+Radio Status: 268
+===
+From Data: 17ljJg?01M845TSspb3r0p2v0@CW
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525114044
+Navigation Status: 15
+Rate of Turn (ROT): 0
+Speed Over Ground: 93
+Position Accuracy: 0
+Longitude: 112.740935
+Latitude: -7.191015
+Course Over Ground: -153.3
+True Heading: 257
+Time Stamp: 31
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 66791
+===
+From Data: 17lobhkP008431gsp5?nI?w20D2E
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525200067
+Navigation Status: 3
+Rate of Turn (ROT): 128
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.73225166666667
+Latitude: -7.206721666666667
+Course Over Ground: 163.6
+True Heading: 511
+Time Stamp: 33
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 82069
+===
+From Data: 17ldwAh01K`3eCQss@onpEO400SG
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525025095
+Navigation Status: 0
+Rate of Turn (ROT): 0
+Speed Over Ground: 91
+Position Accuracy: 0
+Longitude: 51.84010166666667
+Latitude: -8.277395
+Course Over Ground: -196.3
+True Heading: 482
+Time Stamp: 0
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 2263
+===
+From Data: 37ljFf500084123sp74ls:W60000
+Message Type: 3
+Repeat Indicator: 0
+MMSI: 525113016
+Navigation Status: 5
+Rate of Turn (ROT): 0
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.72544166666667
+Latitude: -7.205941666666667
+Course Over Ground: 126.0
+True Heading: 339
+Time Stamp: 35
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 0
+===
+From Data: 17lcQEk000842D=sp3E005Ip2l3h
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525001047
+Navigation Status: 3
+Rate of Turn (ROT): 0
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.72982333333333
+Latitude: -7.20754
+Course Over Ground: 0.0
+True Heading: 172
+Time Stamp: 60
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 1
+Radio Status: 213232
+===
+From Data: 17ljFg@P0083ttaspFoeO?w:0@FO
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525113021
+Navigation Status: 0
+Rate of Turn (ROT): 128
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.7115
+Latitude: -7.199203333333333
+Course Over Ground: -64.4
+True Heading: 511
+Time Stamp: 37
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 66975
+===
+From Data: 17ldgKHP0083hbOsrcJSMOw@0<2v
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525021037
+Navigation Status: 8
+Rate of Turn (ROT): 128
+Speed Over Ground: 0
+Position Accuracy: 0
+Longitude: 112.66957166666667
+Latitude: -7.135823333333334
+Course Over Ground: 88.5
+True Heading: 511
+Time Stamp: 40
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 0
+Radio Status: 49342
+===
+From Data: 17ld8ehP0183wRSsplqA4Owp2PS4
+Message Type: 1
+Repeat Indicator: 0
+MMSI: 525011127
+Navigation Status: 0
+Rate of Turn (ROT): 128
+Speed Over Ground: 1
+Position Accuracy: 0
+Longitude: 112.72034833333333
+Latitude: -7.186391666666666
+Course Over Ground: 27.3
+True Heading: 511
+Time Stamp: 60
+Manuver Indicator: 0
+Spare: 0
+RAIM Flag: 1
+Radio Status: 133316
+===
